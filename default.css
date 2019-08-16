@@ -1,0 +1,8 @@
+#myButton {
+  background-color: red;
+  color: #EEEEEE;
+  cursor: pointer;
+  font-size: 12px;
+  line-height: 12px;
+  padding: 2px 4px;
+}
